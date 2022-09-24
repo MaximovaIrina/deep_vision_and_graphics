@@ -74,3 +74,9 @@ debian/reproducible-experiment-platform
 debian/files
 *.substvars
 *.debhelper.log
+
+venv
+.vscode/launch.json
+
+homework01/notMNIST_small
+homework01/notMNIST_small.tar.gz
